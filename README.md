@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Shahriar Tasnim 👋</h1>
 
 <h3 align="center">
@@ -6,7 +6,7 @@ Electrical, Robotics & Automation Engineer
 </h3>
 
 <p align="center">
-Building reliable intelligent systems—from robotic perception and motion planning
+Building reliable intelligent systems from robotic perception and motion planning
 to industrial automation, testing, commissioning, and deployment.
 </p>
 
