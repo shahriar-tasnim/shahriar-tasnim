@@ -92,15 +92,6 @@ An interactive application for visualizing robotic-joint motion and forward-kine
 
 ---
 
-### Arduino Robot Workspace
-
-A ROS 2 workspace for learning robot description, control, simulation, and Arduino integration.
-
-**Technologies:** ROS 2, C++, CMake, URDF, Arduino
-
-[View repository](https://github.com/shahriar-tasnim/arduinobot_ws)
-
----
 
 ### Capacitive Soil-Moisture Monitoring
 
