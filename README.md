@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Shahriar Tasnim 👋</h1>
 
 <h3 align="center">
-Electrical, Robotics & Automation Engineer
+Embedded Sytems, Robotics & Automation Engineer
 </h3>
 
 <p align="center">
