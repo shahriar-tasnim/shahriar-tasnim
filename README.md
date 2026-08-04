@@ -11,10 +11,9 @@ to industrial automation, testing, commissioning, and deployment.
 </p>
 
 <p align="center">
-  <a href="https://shahriar-tasnim.github.io">Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">Google Scholar</a> •
-  <a href="YOUR_EMAIL_LINK">Email</a>
+  <a href="https://www.linkedin.com/in/shahriar-tasnim0013/">LinkedIn</a> •
+  <a href="https://scholar.google.com/citations?user=bNBg141Tz6IC&hl=en">Google Scholar</a> •
+  <a href="shahriar.tasnim98@gmail.com">Email</a>
 </p>
 
 ---
@@ -29,8 +28,7 @@ My work combines research and practical engineering—from developing ROS 2 robo
 - 🤖 Interested in robotics, automation, perception, and intelligent manufacturing
 - 🏭 Experienced in commissioning, troubleshooting, testing, and field deployment
 - 🔬 Working with ROS 2, RGB-D vision, motion planning, PLCs, and embedded systems
-- 🚗 Open to relocation and travel-based engineering opportunities
-- 📍 Based in Texas, USA
+- 📍 Based in  USA
 
 ---
 
@@ -114,29 +112,6 @@ An embedded monitoring project designed to measure soil-moisture conditions usin
 
 ---
 
-## Technical Toolbox
-
-### Robotics and Automation
-
-`ROS 2` `MoveIt 2` `Gazebo` `RViz` `Nav2` `URDF` `Xacro`  
-`Robot Manipulation` `Motion Planning` `SLAM` `Localization`
-
-### Computer Vision and Machine Learning
-
-`Python` `OpenCV` `Open3D` `PyTorch` `PyTorch3D`  
-`RGB-D Vision` `6-DoF Pose Estimation` `Anomaly Detection`
-
-### Industrial and Electrical Systems
-
-`Siemens TIA Portal` `PLC Ladder Logic` `HMI` `Industrial Sensors`  
-`Commissioning` `Troubleshooting` `Preventive Maintenance` `Root-Cause Analysis`
-
-### Embedded and Development Tools
-
-`C++` `Python` `MATLAB` `JavaScript` `Linux` `Git`  
-`KiCad` `Altium` `UART` `SPI` `I2C` `PCB Design`
-
----
 
 ## Research and Publications
 
@@ -167,15 +142,4 @@ Outside engineering, I enjoy:
 ---
 
 ## Let's Connect
-
-I am interested in opportunities and collaborations involving:
-
-- Robotics field service
-- Robotics deployment and commissioning
-- Automation and controls
-- Electrical engineering
-- Hardware testing and validation
-- Applied robotics research
-
 Feel free to connect with me through LinkedIn or email.
-```
